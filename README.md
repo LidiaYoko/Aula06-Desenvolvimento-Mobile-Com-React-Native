@@ -35,7 +35,7 @@ O aplicativo também oferece recursos opcionais para anexar uma foto de comprova
 - **Persistência local:** os dados das transações são armazenados no dispositivo, sem necessidade de criar uma conta.
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/1b681678-04fc-4e15-a149-33744ec328ac" width="300" controls autoplay muted loop></video>
+  <img src="https://github.com/user-attachments/assets/9a4bb474-832c-46d2-981a-066b097577ce" alt="Demonstração do Minhas Finanças" width="300" />
 </p>
 
 ## Tecnologias
