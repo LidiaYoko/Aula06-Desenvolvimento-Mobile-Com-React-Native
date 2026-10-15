@@ -34,6 +34,10 @@ O aplicativo também oferece recursos opcionais para anexar uma foto de comprova
 - **Cotações:** consulta dos valores do dólar e do euro, com atualização automática a cada cinco minutos e opção de atualização manual.
 - **Persistência local:** os dados das transações são armazenados no dispositivo, sem necessidade de criar uma conta.
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/1b681678-04fc-4e15-a149-33744ec328ac" width="300" controls autoplay muted loop></video>
+</p>
+
 ## Tecnologias
 
 - [React Native](https://reactnative.dev/) e [Expo SDK 57](https://docs.expo.dev/versions/v57.0.0/)
